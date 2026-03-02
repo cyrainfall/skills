@@ -1,0 +1,23 @@
+{
+  "skill_name": "wyckoff-trading",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "帮我分析一下腾讯控股(700.HK)最近的走势，用威科夫方法看看有没有买入机会",
+      "expected_output": "基于威科夫方法分析腾讯控股走势，识别当前市场阶段，给出买卖建议",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "我手里持有苹果股票(AAPL)，最近涨了不少，想用威科夫看看是不是应该卖出",
+      "expected_output": "分析苹果股票是否出现派发信号，UT等卖出信号，给出是否卖出的建议",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "帮我看看英伟达NVDA最近有没有出现Spring或者JAC这样的威科夫买入信号",
+      "expected_output": "识别NVDA是否出现Spring、JAC等买入信号，分析当前市场阶段",
+      "files": []
+    }
+  ]
+}
