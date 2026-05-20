@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""针对六个优化模式审计 Qoder 技能。
+"""针对六个优化模式审计 Agent 技能。
 
 用法：
     python check_skill.py <技能目录路径>
